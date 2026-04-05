@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vanillamccapo.aternos.me",
-    "port": 54393,
+    "ip": "capomc.sdlf.fun",
     "version": "",
     "try-creative": false
   },
